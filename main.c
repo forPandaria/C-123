@@ -18,6 +18,7 @@ int main() {
 				z/=2;
 			}
 			printf("%lld/%lld\n",sum,z);
+			printf("new tianjia");
 		}
 	return 0;
 }
